@@ -1,5 +1,7 @@
 # Basketball Score Tracker 🏀
 
+Refer to the code in [/src/App.jsx](./src/App.jsx).
+
 A simple React application designed to help students learn core React concepts through a fun, interactive basketball scoring app.
 
 ## 📚 What You'll Learn
