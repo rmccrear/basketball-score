@@ -23,6 +23,8 @@ export default function Dice() {
         let tempOdds = 0;
         setOdds(0);
 
+        // see CSP 2025 Unit 6 Lesson 7 Level 9
+        // https://studio.code.org/courses/csp-2025/units/6/lessons/7/levels/9
         for (let i = 0; i < 10; i++) {
             let roll = randomNumber(1, 6)
             // appendItem(tempRollList, roll)
